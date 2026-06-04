@@ -1,0 +1,9 @@
+Package: com.snbc.morerecentsongsplz15
+Name: MoreRecentSongsPlz (iOS 15)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Removes the cap on Recently Added songs in the Music app on iOS 15.
+Maintainer: Drew97
+Author: Drew97
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 15.0)
